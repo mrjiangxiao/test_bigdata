@@ -1,2 +1,2 @@
 # test_bigdata
-This is a description just for test
+This is a repository just for test
